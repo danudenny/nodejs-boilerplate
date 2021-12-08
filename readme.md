@@ -1,5 +1,6 @@
 # NodeJS Express Boilerplate
 ## NodeJS Express Rest API Boilerplate / Ready To Use. 
+![example](https://res.cloudinary.com/killtdj/image/upload/v1638974690/nodejs_ztrkrv.png)
 ### Tech Stack :
 - [Postgresql](https:postgresql.org)
 - [Sequelize](https://sequelize.org)
@@ -67,3 +68,8 @@ API_SECRET= <cloudynaryAPISecret>
 
 5. Set Environment Development `database/config/config.js`
 6. Start The API `yarn start` or `yarn start:dev`
+
+
+## Postman Documentation
+
+[Link Postman Documentation](https://documenter.getpostman.com/view/3229558/UVJkBDPg)
